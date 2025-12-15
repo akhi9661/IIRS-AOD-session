@@ -2,12 +2,17 @@
 [![ResearchGate Badge](https://img.shields.io/badge/ResearcGate-orange)](https://www.researchgate.net/profile/Akhilesh-Kumar-41)
 [![UNSW Badge](https://img.shields.io/badge/UNSW-blue)](https://www.unsw.edu.au/science/our-schools/bees/about-us/our-people/postgraduate-research-students/akhilesh-kumar-grs-profile)
 
-# IIRS-AOD-session
+## IIRS-AOD-session
 This repo contains the slides and codes presented during Hands-On Training AOD session at IIRS on 17th December 2025
+---
 
 **Presented by:** Akhilesh Kumar
 
 **Email:** akhilesh.kumar@unsw.edu.au
+
+---
+
+**iAOD software:** https://www.iirs.gov.in/Download-iAOD-software
 
 #### Read more
 - iAOD Method Paper: [Investigating the applicability of a simple iterative approach for aerosol optical depth (AOD) retrieval over diverse land surface types from Landsat 8 and Sentinel 2 using visible and near-infrared (VNIR) spectral bands](https://doi.org/10.1016/j.atmosenv.2023.120082)

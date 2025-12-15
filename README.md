@@ -5,6 +5,10 @@
 # IIRS-AOD-session
 This repo contains the slides and codes presented during Hands-On Training AOD session at IIRS on 17th December 2025
 
+**Presented by:** Akhilesh Kumar
+
+**Email:** akhilesh.kumar@unsw.edu.au
+
 #### Read more
 - iAOD Method Paper: [Investigating the applicability of a simple iterative approach for aerosol optical depth (AOD) retrieval over diverse land surface types from Landsat 8 and Sentinel 2 using visible and near-infrared (VNIR) spectral bands](https://doi.org/10.1016/j.atmosenv.2023.120082)
 

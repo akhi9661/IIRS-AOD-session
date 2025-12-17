@@ -12,7 +12,7 @@ This repo contains the slides and codes presented during Hands-On Training AOD s
 
 ---
 
-**iAOD software:** https://www.iirs.gov.in/Download-iAOD-software
+**iAOD software:** https://www.iirs.gov.in/Download-iAOD-software or contact Dr. Manu Mehta (manu@iirs.gov.in)
 
 #### Read more
 - iAOD Method Paper: [Investigating the applicability of a simple iterative approach for aerosol optical depth (AOD) retrieval over diverse land surface types from Landsat 8 and Sentinel 2 using visible and near-infrared (VNIR) spectral bands](https://doi.org/10.1016/j.atmosenv.2023.120082)

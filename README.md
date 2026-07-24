@@ -3,7 +3,9 @@
 [![UNSW Badge](https://img.shields.io/badge/UNSW-blue)](https://www.unsw.edu.au/science/our-schools/bees/about-us/our-people/postgraduate-research-students/akhilesh-kumar-grs-profile)
 
 ## IIRS-AOD-session
-This repo contains the slides and codes presented during Hands-On Training AOD session at IIRS on 17th December 2025
+This repo contains the slides and codes presented during Hands-On Training AOD session at IIRS on 
+- 17th December 2025
+- 28th July 2026
 ---
 
 **Presented by:** Akhilesh Kumar
